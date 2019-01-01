@@ -34,4 +34,4 @@ Write By ITJoker Time:2018.10.08
 [0x09] Bug can't Slove
 	1.Currently unable to solve the problem of camera display screen is small
 
-[0x10] If you like the project, give it to a star, or donate to the author alipay: 649258008@qq.com :)
+[0x10] If you like the project, give it to a star, or donate to the author alipay: 649258008@qq.com :)# text
