@@ -51,4 +51,4 @@ git clone https://github.com/ITJoker233/FaceRecognitionAccessControlRaspberry-Py
 
 ---
 
-***If you like the project, give it to a star, or donate to the author alipay: 649258008@qq.com :)***
+***If you like the project, give it to a star, or donate to the author.https://blog.itjoker.cn/donate :)***
